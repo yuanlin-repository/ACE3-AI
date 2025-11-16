@@ -12,6 +12,14 @@ Find me here: https://ace3ai.com/about.html
 - Build Tools: Webpack, Turbopack
 
 ## Model Performance Comparison
+### LLM
+
+[Watch on youtube](https://youtu.be/zjSzFvgbI24)
+
+[![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=zjSzFvgbI24)
+
+
+### Bert QA
 [Watch on youtube](https://youtu.be/OkXnQ__nvvo)
 
 [![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=OkXnQ__nvvo)
