@@ -11,6 +11,11 @@ Find me here: https://ace3ai.com/about.html
 - Styling: Tailwind CSS
 - Build Tools: Webpack, Turbopack
 
+## Model Performance Comparison
+[Watch on youtube](https://youtu.be/OkXnQ__nvvo)
+
+[![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=OkXnQ__nvvo)
+
 ## ACE3 Platform
 I built the ace3ai-console using techniques above. ace3ai-consoles is a comprehensive platform for managing AI models, datasets, environments, templates, and tasks. This platform provides a zero-code experience for creating and managing AI jobs.
 
@@ -23,8 +28,3 @@ I built the ace3ai-console using techniques above. ace3ai-consoles is a comprehe
 [Watch on youtube](https://www.youtube.com/watch?v=L70Uj0noZi0)
 
 [![Submit Task](https://img.youtube.com/vi/L70Uj0noZi0/hqdefault.jpg)](https://www.youtube.com/watch?v=L70Uj0noZi0)
-
-## Model Performance Comparison
-[Watch on youtube](https://youtu.be/zjSzFvgbI24)
-
-[![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=zjSzFvgbI24)
