@@ -12,7 +12,7 @@ Find me here: https://ace3ai.com/about.html
 - Build Tools: Webpack, Turbopack
 
 ## Model Performance Comparison
-### LLM
+### LLM (Llama)
 
 [Watch on youtube](https://youtu.be/zjSzFvgbI24)
 
