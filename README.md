@@ -4,9 +4,8 @@ This repository is used to show my achievements during my work at ACE3 AI LTD.
 Find me here: https://ace3ai.com/about.html
 
 ## Technology Stack
-- Frontend: Next.js, React, Ant Design
+- Frontend/Backend: Next.js, React, Ant Design
 - State Management: Ice Framework
-- Backend: Java, Python, SpringBoot
 - Database: PostgreSQL
 - Styling: Tailwind CSS
 - Build Tools: Webpack, Turbopack
