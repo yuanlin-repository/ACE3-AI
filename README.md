@@ -12,6 +12,9 @@ Find me here: https://ace3ai.com/about.html
 - Build Tools: Webpack, Turbopack
 
 ## Model Performance Comparison
+
+Demonstrate model inference speed before and after integrating acceleration tools.
+
 ### LLM (Llama)
 
 [Watch on youtube](https://youtu.be/zjSzFvgbI24)
