@@ -17,15 +17,15 @@ Demonstrate model inference speed before and after integrating acceleration tool
 
 ### LLM (Llama)
 
-[Watch on youtube](https://youtu.be/zjSzFvgbI24)
-
-[![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=zjSzFvgbI24)
-
-
-### Bert QA
 [Watch on youtube](https://youtu.be/OkXnQ__nvvo)
 
 [![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=OkXnQ__nvvo)
+
+### Bert QA
+
+[Watch on youtube](https://youtu.be/zjSzFvgbI24)
+
+[![Model Performance Comparison](https://img.youtube.com/vi/zjSzFvgbI24/hqdefault.jpg)](https://www.youtube.com/watch?v=zjSzFvgbI24)
 
 ## ACE3 Platform
 ace3ai-consoles is a comprehensive platform for managing AI models, datasets, environments, templates, and tasks. This platform provides a zero-code experience for creating and managing AI jobs.
