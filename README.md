@@ -4,11 +4,15 @@ This repository is used to show my achievements during my work at ACE3 AI LTD.
 Find me here: https://ace3ai.com/about.html
 
 ## Technology Stack
-- Frontend/Backend: Next.js, React, Ant Design
+- Frontend/Backend: Java, SpringBoot, React, TypeScript, Ant Design
 - State Management: Ice Framework
 - Database: PostgreSQL
 - Styling: Tailwind CSS
 - Build Tools: Webpack, Turbopack
+
+## Architecture
+<img width="1125" height="803" alt="ace3 architecture drawio" src="https://github.com/user-attachments/assets/c4183b5d-f03c-4e08-bef3-7b43b84df987" />
+
 
 ## Model Performance Comparison
 
